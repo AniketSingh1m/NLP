@@ -50,6 +50,6 @@ The results of the assignment were compared using the Classification Report gene
 - F1-score
 - Accuracy
 
-For detailed code and analysis, please refer to the provided [Jupyter Notebook](Assignment_1/Assignment_1(Aniket_Singh_21070126013).ipynb) and the [PDF Report](link_to_your_pdf_report.pdf).
+For detailed code and analysis, please refer to the provided [Jupyter Notebook](Assignment_1/Assignment_1(Aniket_Singh_21070126013).ipynb) and the [PDF Report](Assignment_1/Assignment_1(Aniket_Singh_21070126013).pdf).
 
 
